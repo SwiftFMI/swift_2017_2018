@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
+    <pages>
+        <page name='Stack Live'/>
+        <page name='Stack Solution'/>
+        <page name='Queue Solution'/>
+        <page name='Queue Optimized Solution'/>
+        <page name='Queue Live'/>
+        <page name='Queue Optimized Live'/>
+        <page name='Ring Buffer Solution'/>
+        <page name='Ring Buffer Live'/>
+    </pages>
+</playground>

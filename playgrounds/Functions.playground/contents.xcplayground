@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' executeOnSourceChanges='false'>
+    <pages>
+        <page name='Default Value Parameters'/>
+        <page name='Variadic Parameters'/>
+        <page name='inout'/>
+        <page name='Inline'/>
+        <page name='Function as parameter'/>
+        <page name='Retrun a function'/>
+        <page name='Operator overloading'/>
+        <page name='Recursion'/>
+        <page name='Solutions'/>
+    </pages>
+</playground>
